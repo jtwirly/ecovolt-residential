@@ -1,10 +1,5 @@
-<div style="background: black;">
-<p align="center" style="margin: 0;">
-  <a href="https://dev.marblism.com" target="blank">
-    <img src="https://marblism-dashboard-api--production-public.s3.us-west-1.amazonaws.com/marblism-logo.png" height="150" alt="Marblism Logo" />
-  </a>
-</p>
-<h1 align="center" style="margin: 0;">In Marble We Trust</h1>
+
+<img width="920" alt="Screen Shot 2024-10-31 at 11 57 02 AM" src="https://github.com/user-attachments/assets/d32cb3b4-25b3-43e3-8e30-eab93721e4f8">
 
 <a  style="margin: 0;" target="_blank" href="https://marblism.com">
 <p align="center" style="margin: 0; letter-spacing: 3px;
